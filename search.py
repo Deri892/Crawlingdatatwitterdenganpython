@@ -1,7 +1,7 @@
 import tweepy,sys,jsonpickle
 
-consumer_key = 'isi token disini'
-consumer_secret = 'isi secret code disini'
+consumer_key = 'D37pv28cVUuiTnKauy8ApLp7K'
+consumer_secret = 'eQGYdNyQ6sDgbt64GzQ6jkiROqSwRhGm7hZA63XIk6wllpEsIu'
 print("#===============================================#")
 print("Program Crawling Twitter menggunakan Python 3")
 print("\t DERI ARDIANI"
